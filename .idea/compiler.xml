@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="springconsumerdept80" />
+        <module name="springcloudeureka7001" />
         <module name="springcloudproviderdept8001" />
         <module name="springcloudapi" />
       </profile>
